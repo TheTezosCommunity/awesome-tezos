@@ -10,7 +10,7 @@
 -   [Defi](#defi)
 -   [Organizations](#organizations)
     -   [Foundations](#foundations)
-    -   [Organizations](#communities)
+    -   [Communities](#communities)
 -   [News](#news)
 -   [Contribute](#contribute)
 
