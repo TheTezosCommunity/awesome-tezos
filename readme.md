@@ -2,28 +2,47 @@
 
 > A curated list of Tezos Ecosystem dApps, tools, and communities.
 
+![Awesome Tezos Logo](./media/awesome-tezos-logo.webp)
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+-   [Wallets](#wallets)
+-   [Defi](#defi)
+-   [Organizations](#organizations)
+    -   [Foundations](#foundations)
+    -   [Organizations](#communities)
+-   [News](#news)
+-   [Contribute](#contribute)
 
+## Wallets
 
-## Section
+> The first step of participating in the Tezos ecosystem is selecting your wallet provider.
 
-About this section. Optional. Keep this short and focus on the list.
+-   [Kukai](https://wallet.kukai.app/)
+-   [Temple](https://templewallet.com/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Defi
 
+> Decentralized Finance
 
-## Another Section
+-   [Crunchy](https://crunchy.network/)
+-   [Spicyswap](https://hd.spicyswap.xyz/)
+-   [Plenty](https://plenty.network/)
+-   [Matter](https://matterdefi.xyz/)
 
-### Subsection
+## Organizations
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Foundations
 
+-   [Tezos Foundation](https://tezos.foundation/)
+
+### Communities
+
+-   [The Tezos Community](https://thetezos.com/)
+
+## News
+
+-   [XTZ News](https://xtz.news/en/)
 
 ## Contribute
 
