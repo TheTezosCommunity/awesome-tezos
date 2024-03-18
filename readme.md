@@ -4,6 +4,20 @@
 
 ![Awesome Tezos Logo](./media/awesome-tezos-logo.webp)
 
+---
+
+## Support
+
+This list is maintained by passionate Tezos enthusiasts and supported with special thanks by:
+
+[![TTC Logo](./media/ron_west_TTC_logo_05_small.webp)](https://thetezos.com)
+<br/>
+[The Tezos Community](https://thetezos.com)
+
+> If you would like to pledge support and have your project featured here, please [submit an issue](https://github.com/TheTezosCommunity/awesome-tezos/issues/new/choose).
+
+You can also support the TTC directly by sending donations to `donate.awesome-tezos.tez`
+
 ## Contents
 
 -   [Wallets](#wallets)
