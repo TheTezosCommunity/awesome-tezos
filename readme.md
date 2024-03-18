@@ -16,7 +16,7 @@ This list is maintained by passionate Tezos enthusiasts and supported with speci
 
 > If you would like to pledge support and have your project featured here, please [submit an issue](https://github.com/TheTezosCommunity/awesome-tezos/issues/new/choose).
 
-You can also support the TTC directly by sending donations to `donate.awesome-tezos.tez`
+You too can support this list and **The Tezos Community** directly by sending donations to `donate.awesome-tezos.tez`
 
 ## Contents
 
