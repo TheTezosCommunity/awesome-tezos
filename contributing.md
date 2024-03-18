@@ -8,12 +8,15 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+-   If you are adding a link, ensure you link to the main homepage if possible
+-   Dead links are bad. Please help us remove any we missed.
+-   Brevity is best. Short titles please.
+-   Avoid adding the same link in more than one place.
+-   Ensure you pull the latest changes prior to pushing a PR.
+-   This is an AWESOME list, not a general aggregator. Please don't be offended if your suggestion doesn't make the cut at this time. Feel free to suggest again later.
+-   If you add a new section to the outline, or you add a link to a previously empty section, add a link in the table of contents to that section.
 
-Thank you for your suggestions!
-
+Thank you for your suggestions and contributions!
 
 ## Updating your PR
 
