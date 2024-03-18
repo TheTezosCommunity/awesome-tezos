@@ -73,6 +73,11 @@
 
 ### Podcasts
 
+## Block Explorers
+
+-   [tzkt](https://tzkt.io/)
+-   [tzStats](https://tzstats.com/)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
