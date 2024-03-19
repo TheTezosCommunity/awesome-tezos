@@ -77,6 +77,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [fxhash](https://www.fxhash.xyz/)
 -   [Teia.art](https://teia.art/)
 -   [Teia.cafe](https://www.teia.cafe/)
+-   [TzRaffles.fun](https://www.tzraffles.fun/)
 
 ### NFT Tools
 
