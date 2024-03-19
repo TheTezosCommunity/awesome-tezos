@@ -84,6 +84,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [nftbiker.tez Tools](https://nftbiker.xyz/)
 -   [Bandog](https://bandog.tez.page/)
+-   [PureSpider's fxhash PFP generator](https://github.com/PureSpider/fxhash-pfp)
 
 ## Games
 
