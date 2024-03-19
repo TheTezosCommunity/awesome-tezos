@@ -33,6 +33,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 or by using the button below
 <br />
 [![Button Support]][Link Support] 
+
 [Button Support]: https://img.shields.io/badge/Support_us!_(2_XTZ)-007bff?style=for-the-badge
 [Link Support]: https://tezos-share.stroep.nl/?id=B73pj 'Support us (2 XTZ)'
 </p>
