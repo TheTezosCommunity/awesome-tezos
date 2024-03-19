@@ -48,6 +48,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Media](#media)
     -   [News](#news)
 -   [Block Explorers](#block-explorers)
+-   [Documentation](#documentation)
+-   [Baking Tools](#baking-tools)
 -   [Contribute](#contribute)
 
 ## Wallets
@@ -107,6 +109,15 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [tzkt](https://tzkt.io/)
 -   [tzStats](https://tzstats.com/)
+
+## Documentation
+
+-   [Octez and Protocol Documentation](https://tezos.gitlab.io/introduction/tezos.html)
+-   [Open Tezos](https://opentezos.com/)
+
+## Baking Tools
+
+-   [Tez Capital](https://docs.tez.capital/)
 
 ## Contribute
 
