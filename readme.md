@@ -78,6 +78,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Teia.art](https://teia.art/)
 -   [Teia.cafe](https://www.teia.cafe/)
 -   [TzRaffles.fun](https://www.tzraffles.fun/)
+-   [ArtDex](https://artdex.io/)
 
 ### NFT Tools
 
@@ -87,6 +88,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ## Games
 
 -   [Chainborn](https://chainborn.xyz/)
+-   [Tezos Cartel HQ](https://tezoscartel.xyz/)
 
 ## Organizations
 
