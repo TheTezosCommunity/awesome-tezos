@@ -100,6 +100,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ### Communities
 
 -   [The Tezos Community](https://thetezos.com/)
+-   [Tezos Pepe](https://tezospepe.com/)
 
 ## Media
 
