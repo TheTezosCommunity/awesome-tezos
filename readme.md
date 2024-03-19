@@ -8,15 +8,31 @@
 
 ## Support
 
-This list is maintained by passionate Tezos enthusiasts and supported with special thanks by:
-
-[![TTC Logo](./media/ron_west_TTC_logo_05_small.webp)](https://thetezos.com)
-<br/>
-[The Tezos Community](https://thetezos.com)
+<div align="center">
+<p>
+<sup>This list is maintained by passionate Tezos enthusiasts and supported with special thanks by:</sup>
+		<br>
+		<br>
+		<a href="https://thetezos.com">
+			<img src="./media/ron_west_TTC_logo_05_small.webp" width="160"/>
+            <br>
+            The Tezos Community
+		</a>
+		<br>
+		<br>
+</p>
+</div>
 
 > If you would like to pledge support and have your project featured here, please [submit an issue](https://github.com/TheTezosCommunity/awesome-tezos/issues/new/choose).
 
-You too can support this list and **The Tezos Community** directly by sending donations to `donate.awesome-tezos.tez`
+<p align="center">
+You too can support this list and <strong>The Tezos Community</strong> directly by sending donations to
+<br/>
+<code>donate.awesome-tezos.tez</code>
+</p>
+<p align="center">
+	Just type <a href="https://awesome-tezos.tez.page/"><code>awesome-tezos.tez.page</code></a> to go here.
+</p>
 
 ## Contents
 
