@@ -32,11 +32,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 </p><p align="center">
 or by using the button below
 <br />
-
-[![Button Support]][Link Support] 
-
-[Button Support]: https://img.shields.io/badge/Support_us!_(2_XTZ)-007bff?style=for-the-badge
-[Link Support]: https://tezos-share.stroep.nl/?id=B73pj 'Support us (2 XTZ)'
+<a href="https://tezos-share.stroep.nl/?id=B73pj"><img src="https://img.shields.io/badge/Support_us!_(2_XTZ)-007bff?style=for-the-badge"></a>
 </p>
 <p align="center">
 	Just type <a href="https://awesome-tezos.tez.page/"><code>awesome-tezos.tez.page</code></a> to go here.
