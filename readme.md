@@ -118,6 +118,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ## Baking Tools
 
 -   [Tez Capital](https://docs.tez.capital/)
+-   [La Boulange](https://github.com/LaBoulange/tezos-baker/)
 
 ## Contribute
 
