@@ -63,6 +63,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Kukai](https://wallet.kukai.app/)
 -   [Temple](https://templewallet.com/)
 
+([top](#contents))
+
 ## Defi
 
 > Decentralized Finance
@@ -72,6 +74,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Plenty](https://plenty.network/)
 -   [Quipuswap](https://quipuswap.com/)
 -   [Matter](https://matterdefi.xyz/)
+
+([top](#contents))
 
 ## NFTs
 
@@ -88,6 +92,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [TzRaffles.fun](https://www.tzraffles.fun/)
 -   [ArtDex](https://artdex.io/)
 
+([top](#contents))
+
 ### NFT Tools
 
 > Utilities to help in creating, buying, and managing single NFTs or entire collections
@@ -98,6 +104,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [FA2 Bakery](https://fa2-bakery.netlify.app/)
 -   [Tezos Art Vending Machine](https://www.vendingnfts.xyz/)
 
+([top](#contents))
+
 ## Games
 
 > Ways to play with your XTZ
@@ -105,9 +113,13 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Chainborn](https://chainborn.xyz/)
 -   [Tezos Cartel HQ](https://tezoscartel.xyz/)
 
+([top](#contents))
+
 ## VR / Metaverse
 
 -   [oncyber](https://oncyber.io/)
+
+([top](#contents))
 
 ## Organizations
 
@@ -115,10 +127,14 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [Tezos Foundation](https://tezos.foundation/)
 
+([top](#contents))
+
 ### Communities
 
 -   [The Tezos Community](https://thetezos.com/)
 -   [Tezos Pepe](https://tezospepe.com/)
+
+([top](#contents))
 
 ### DAOs
 
@@ -129,13 +145,19 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Homebase](https://tezos-homebase.io/)
     > Create, join, and participate in DAO voting
 
+([top](#contents))
+
 ## Media
 
 ### News
 
 -   [XTZ News](https://xtz.news/en/)
 
+([top](#contents))
+
 ### Podcasts
+
+([top](#contents))
 
 ## Block Explorers
 
@@ -146,10 +168,14 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Baking Bad](https://baking-bad.org/)
     > check your staking rewards and find the most complete list of Tezos delegation services.
 
+([top](#contents))
+
 ## Documentation
 
 -   [Octez and Protocol Documentation](https://tezos.gitlab.io/introduction/tezos.html)
 -   [Open Tezos](https://opentezos.com/)
+
+([top](#contents))
 
 ## Baking Tools
 
@@ -157,6 +183,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [Tez Capital](https://docs.tez.capital/)
 -   [La Boulange](https://github.com/LaBoulange/tezos-baker/)
+
+([top](#contents))
 
 ## Development Tools
 
@@ -169,9 +197,13 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Ligo](https://ligolang.org/)
     > A simple smart-contract language built for Tezos, made for developers.
 
+([top](#contents))
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+([top](#contents))
 
 ## Contributors
 
@@ -179,3 +211,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 -   [skullzarmy](https://github.com/skullzarmy)
 -   [LaBoulange](https://github.com/LaBoulange)
+
+([top](#contents))
