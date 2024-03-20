@@ -15,6 +15,7 @@ Ensure your pull request adheres to the following guidelines:
 -   Ensure you pull the latest changes prior to pushing a PR.
 -   This is an AWESOME list, not a general aggregator. Please don't be offended if your suggestion doesn't make the cut at this time. Feel free to suggest again later.
 -   If you add a new section to the outline, or you add a link to a previously empty section, add a link in the table of contents to that section.
+-   If this is your first contribution, don't forget to add yourself to Contributors with a link to your GitHub profile. No other personal links are allowed in this space.
 
 Thank you for your suggestions and contributions!
 

@@ -54,6 +54,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Baking Tools](#baking-tools)
 -   [Development Tools](#development-tools)
 -   [Contribute](#contribute)
+-   [Contributors](#contributors)
 
 ## Wallets
 
@@ -171,3 +172,10 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Contributors
+
+**Special thanks to these Awesome contributors:**
+
+-   [skullzarmy](https://github.com/skullzarmy)
+-   [LaBoulange](https://github.com/LaBoulange)
