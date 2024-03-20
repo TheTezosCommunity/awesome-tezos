@@ -50,6 +50,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Block Explorers](#block-explorers)
 -   [Documentation](#documentation)
 -   [Baking Tools](#baking-tools)
+-   [Development Tools](#development-tools)
 -   [Contribute](#contribute)
 
 ## Wallets
@@ -136,6 +137,17 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [Tez Capital](https://docs.tez.capital/)
 -   [La Boulange](https://github.com/LaBoulange/tezos-baker/)
+
+## Development Tools
+
+-   [Sign In With Tezos](https://siwt.xyz/)
+    > Node.js (NPM) Package to handle user auth via token ownership, balance, etc.
+-   [Taquito](https://tezostaquito.io/)
+    > Typescript library to abstract common blockchain interactions - develop Tezos blockchain apps faster and easier
+-   [SmartPy](https://smartpy.io/)
+    > A comprehensive solution for developing, testing, and deploying smart contracts on the Tezos blockchain. All in familiar Python syntax.
+-   [Ligo](https://ligolang.org/)
+    > A simple smart-contract language built for Tezos, made for developers.
 
 ## Contribute
 
