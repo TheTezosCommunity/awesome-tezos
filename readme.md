@@ -142,6 +142,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [tzStats](https://tzstats.com/)
 -   [BetterCallDev](https://better-call.dev/)
     > Blockchain interaction by UI
+-   [Baking Bad](https://baking-bad.org/)
+    > check your staking rewards and find the most complete list of Tezos delegation services.
 
 ## Documentation
 
