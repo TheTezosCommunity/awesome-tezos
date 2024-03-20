@@ -132,6 +132,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ### Communities
 
 -   [The Tezos Community](https://thetezos.com/)
+-   [Tezos Commons](https://tezoscommons.org/)
+    > "Tezos Commons supports the ideas, individuals and organizations dedicated to building the digital commonwealth"
 -   [Tezos Pepe](https://tezospepe.com/)
 
 ([top](#contents))
@@ -172,6 +174,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 ## Documentation
 
+-   [Tezos Agora](https://forum.tezosagora.org/)
+    > Forum to exchange about ideas and proposals related to Tezos
 -   [Octez and Protocol Documentation](https://tezos.gitlab.io/introduction/tezos.html)
 -   [Open Tezos](https://opentezos.com/)
 
