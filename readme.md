@@ -42,9 +42,11 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     -   [Marketplaces](#nft-marketplaces)
     -   [Tools](#nft-tools)
 -   [Games](#games)
+-   [VR / Metaverse](#vr--metaverse)
 -   [Organizations](#organizations)
     -   [Foundations](#foundations)
     -   [Communities](#communities)
+    -   [Distributed Autonomous Organizations (DAOs)](#daos)
 -   [Media](#media)
     -   [News](#news)
 -   [Block Explorers](#block-explorers)
@@ -102,6 +104,10 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Chainborn](https://chainborn.xyz/)
 -   [Tezos Cartel HQ](https://tezoscartel.xyz/)
 
+## VR / Metaverse
+
+-   [oncyber](https://oncyber.io/)
+
 ## Organizations
 
 ### Foundations
@@ -112,6 +118,15 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [The Tezos Community](https://thetezos.com/)
 -   [Tezos Pepe](https://tezospepe.com/)
+
+### DAOs
+
+> Decentralized Autonomous Organizations
+
+#### DAO Tools
+
+-   [Homebase](https://tezos-homebase.io/)
+    > Create, join, and participate in DAO voting
 
 ## Media
 
@@ -125,6 +140,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [tzkt](https://tzkt.io/)
 -   [tzStats](https://tzstats.com/)
+-   [BetterCallDev](https://better-call.dev/)
+    > Blockchain interaction by UI
 
 ## Documentation
 
