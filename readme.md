@@ -71,7 +71,11 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 ## NFTs
 
+> Non-fungible Tokens
+
 ### NFT Marketplaces
+
+> Buy, sell, create, raffle, & more
 
 -   [Objkt](https://objkt.com/)
 -   [fxhash](https://www.fxhash.xyz/)
@@ -82,11 +86,16 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 ### NFT Tools
 
+> Utilities to help in creating, buying, and managing single NFTs or entire collections
+
 -   [nftbiker.tez Tools](https://nftbiker.xyz/)
 -   [Bandog](https://bandog.tez.page/)
 -   [PureSpider's fxhash PFP generator](https://github.com/PureSpider/fxhash-pfp)
+-   [FA2 Bakery](https://fa2-bakery.netlify.app/)
 
 ## Games
+
+> Ways to play with your XTZ
 
 -   [Chainborn](https://chainborn.xyz/)
 -   [Tezos Cartel HQ](https://tezoscartel.xyz/)
@@ -121,6 +130,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Open Tezos](https://opentezos.com/)
 
 ## Baking Tools
+
+> Tools to assist delegates ("bakers") manage their operations.
 
 -   [Tez Capital](https://docs.tez.capital/)
 -   [La Boulange](https://github.com/LaBoulange/tezos-baker/)
