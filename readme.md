@@ -91,6 +91,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Teia.cafe](https://www.teia.cafe/)
 -   [TzRaffles.fun](https://www.tzraffles.fun/)
 -   [ArtDex](https://artdex.io/)
+-   [Tezos Art Vending Machine](https://www.vendingnfts.xyz/)
 
 ([top](#contents))
 
@@ -102,7 +103,6 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Bandog](https://bandog.tez.page/)
 -   [PureSpider's fxhash PFP generator](https://github.com/PureSpider/fxhash-pfp)
 -   [FA2 Bakery](https://fa2-bakery.netlify.app/)
--   [Tezos Art Vending Machine](https://www.vendingnfts.xyz/)
 
 ([top](#contents))
 
