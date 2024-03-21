@@ -46,6 +46,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Organizations](#organizations)
     -   [Foundations](#foundations)
     -   [Communities](#communities)
+    -   [Development Teams](#development-teams)
     -   [Distributed Autonomous Organizations (DAOs)](#daos)
 -   [Media](#media)
     -   [News](#news)
@@ -136,6 +137,17 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Tezos Commons](https://tezoscommons.org/)
     > "Tezos Commons supports the ideas, individuals and organizations dedicated to building the digital commonwealth"
 -   [Tezos Pepe](https://tezospepe.com/)
+
+([top](#contents))
+
+### Development Teams
+
+-   [Nomadic Labs](https://www.nomadic-labs.com/)
+    > Research and Development, core development, and adoption assistance for Benelux
+-   [Trilitech](https://www.trili.tech/)
+    > Development, core development, and adoption assistance
+-   [Marigold](https://www.marigold.dev/)
+    > Development team focused on testing and developing upgrades to the Tezos Protocol
 
 ([top](#contents))
 
