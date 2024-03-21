@@ -49,6 +49,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     -   [Distributed Autonomous Organizations (DAOs)](#daos)
 -   [Media](#media)
     -   [News](#news)
+-   [Communication](#communication)
 -   [Block Explorers](#block-explorers)
 -   [Documentation](#documentation)
 -   [Baking Tools](#baking-tools)
@@ -158,6 +159,13 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ([top](#contents))
 
 ### Podcasts
+
+([top](#contents))
+
+## Communication
+
+-   [Mailchain](https://app.mailchain.com/)
+    > multichain secured emailing application
 
 ([top](#contents))
 
