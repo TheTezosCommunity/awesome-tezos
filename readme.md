@@ -189,6 +189,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Blockchain interaction by UI
 -   [Baking Bad](https://baking-bad.org/)
     > check your staking rewards and find the most complete list of Tezos delegation services.
+-   [Bandog](https://bandog.tez.page/)
+    > collect and analyze Tezos address data (history, circular connections, ObjKT bans, etc)
 
 ([top](#contents))
 
