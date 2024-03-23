@@ -102,7 +102,6 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 > Utilities to help in creating, buying, and managing single NFTs or entire collections
 
 -   [nftbiker.tez Tools](https://nftbiker.xyz/)
--   [Bandog](https://bandog.tez.page/)
 -   [PureSpider's fxhash PFP generator](https://github.com/PureSpider/fxhash-pfp)
 -   [FA2 Bakery](https://fa2-bakery.netlify.app/)
 
