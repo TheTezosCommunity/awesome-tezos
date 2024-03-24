@@ -175,6 +175,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [#BlockchainEvolved](https://www.youtube.com/@BlockchainEvolved)
     > The Blockchain Evolved show focuses on the Tezos protocol and the broader Tezos ecosystem!
+-   [1M TPS demo and visualization](https://www.youtube.com/watch?v=2EgjMvEIGww&ab_channel=Tezos)
+    > 10-minute workshop captured live from TEZDEV 2023, where Emma Turner and Thomas Letan demonstrate 1 million transactions per second (1M TPS) on Tezos.
 
 ([top](#contents))
 
