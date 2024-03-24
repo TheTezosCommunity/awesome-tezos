@@ -226,6 +226,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > A comprehensive solution for developing, testing, and deploying smart contracts on the Tezos blockchain. All in familiar Python syntax.
 -   [Ligo](https://ligolang.org/)
     > A simple smart-contract language built for Tezos, made for developers.
+-   [Alis.is Tea](https://github.com/alis-is/tea)
+    > Self-contained smart contracts development environment
 
 ([top](#contents))
 
