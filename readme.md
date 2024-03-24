@@ -50,6 +50,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     -   [Distributed Autonomous Organizations (DAOs)](#daos)
 -   [Media](#media)
     -   [News](#news)
+    -   [Audio/Video](#audio--video)
 -   [Communication](#communication)
 -   [Block Explorers](#block-explorers)
 -   [Documentation](#documentation)
@@ -170,7 +171,10 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 ([top](#contents))
 
-### Podcasts
+### Audio / Video
+
+-   [#BlockchainEvolved](https://www.youtube.com/@BlockchainEvolved)
+    > The Blockchain Evolved show focuses on the Tezos protocol and the broader Tezos ecosystem!
 
 ([top](#contents))
 
