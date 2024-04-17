@@ -97,6 +97,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Tezos Art Vending Machine](https://www.vendingnfts.xyz/)
 -   [pepe-et-nunc](https://www.pepeetnunc.art/)
 -   [tesserart](https://tesserart.xyz/)
+-   [Emergent Properties](https://emprops.ai/)
 
 ([top](#contents))
 
