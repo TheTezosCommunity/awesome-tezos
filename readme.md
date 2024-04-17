@@ -232,6 +232,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > A simple smart-contract language built for Tezos, made for developers.
 -   [Alis.is Tea](https://github.com/alis-is/tea)
     > Self-contained smart contracts development environment
+-   [TezBox](https://github.com/tez-capital/tezbox)
+    > TezBox is a tezos sandbox that allows you to run a minimal local tezos chain with a single command.
 
 ([top](#contents))
 
