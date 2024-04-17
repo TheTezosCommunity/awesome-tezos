@@ -96,6 +96,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [ArtDex](https://artdex.io/)
 -   [Tezos Art Vending Machine](https://www.vendingnfts.xyz/)
 -   [pepe-et-nunc](https://www.pepeetnunc.art/)
+-   [tesserart](https://tesserart.xyz/)
 
 ([top](#contents))
 
