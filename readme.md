@@ -36,28 +36,30 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 ## Contents
 
--   [Wallets](#wallets)
+> alphabetical order
+
+-   [Baking Tools](#baking-tools)
+-   [Block Explorers](#block-explorers)
+-   [Communication](#communication)
+-   [Contribute](#contribute)
+-   [Contributors](#contributors)
 -   [Defi](#defi)
+-   [Development Tools](#development-tools)
+-   [Documentation](#documentation)
+-   [Games](#games)
+-   [Media](#media)
+    -   [Audio/Video](#audio--video)
+    -   [News](#news)
 -   [NFTs](#nfts)
     -   [Marketplaces](#nft-marketplaces)
     -   [Tools](#nft-tools)
--   [Games](#games)
--   [VR / Metaverse](#vr--metaverse)
 -   [Organizations](#organizations)
-    -   [Foundations](#foundations)
     -   [Communities](#communities)
     -   [Development Teams](#development-teams)
     -   [Distributed Autonomous Organizations (DAOs)](#daos)
--   [Media](#media)
-    -   [News](#news)
-    -   [Audio/Video](#audio--video)
--   [Communication](#communication)
--   [Block Explorers](#block-explorers)
--   [Documentation](#documentation)
--   [Baking Tools](#baking-tools)
--   [Development Tools](#development-tools)
--   [Contribute](#contribute)
--   [Contributors](#contributors)
+    -   [Foundations](#foundations)
+-   [VR / Metaverse](#vr--metaverse)
+-   [Wallets](#wallets)
 
 ## Wallets
 
