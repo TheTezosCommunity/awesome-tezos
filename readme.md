@@ -242,6 +242,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Self-contained smart contracts development environment
 -   [TezBox](https://github.com/tez-capital/tezbox)
     > TezBox is a tezos sandbox that allows you to run a minimal local tezos chain with a single command.
+-   [magic.link](https://magic.link/docs/blockchains/featured-chains/tezos)
+    > Magic provides the leading wallet-as-a-service plus essential NFT capabilities.
 
 ([top](#contents))
 
