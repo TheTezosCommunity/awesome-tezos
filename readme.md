@@ -252,7 +252,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [Etherlink](https://www.etherlink.com/)
     > An EVM-compatible layer 2 built on Tezos Smart Rollup technology
-    - [Etherlink Explirer](https://etherlink.blockscout.com/)
+    - [Etherlink Explorer](https://etherlink.blockscout.com/)
     - [Etherlink Bridge](https://bridge.etherlink.com/)
 
 ## Contribute
