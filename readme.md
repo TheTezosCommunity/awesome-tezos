@@ -59,6 +59,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     -   [Development Teams](#development-teams)
     -   [Distributed Autonomous Organizations (DAOs)](#daos)
     -   [Foundations](#foundations)
+-   [Rollups](#rollups)
 -   [VR / Metaverse](#vr--metaverse)
 -   [Wallets](#wallets)
 
@@ -246,6 +247,13 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Magic provides the leading wallet-as-a-service plus essential NFT capabilities.
 
 ([top](#contents))
+
+## Rollups
+
+-   [Etherlink](https://www.etherlink.com/)
+    > An EVM-compatible layer 2 built on Tezos Smart Rollup technology
+    - [Etherlink Explorer](https://etherlink.blockscout.com/)
+    - [Etherlink Bridge](https://bridge.etherlink.com/)
 
 ## Contribute
 
