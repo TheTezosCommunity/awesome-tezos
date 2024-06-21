@@ -226,6 +226,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [Tez Capital](https://docs.tez.capital/)
 -   [La Boulange](https://github.com/LaBoulange/tezos-baker/)
+-   [Tezpay Extensions](https://github.com/LaBoulange/tezpay-extensions)
+    > Tezpay extensions developed at La Boulange
 
 ([top](#contents))
 
