@@ -228,6 +228,10 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [La Boulange](https://github.com/LaBoulange/tezos-baker/)
 -   [Tezpay Extensions](https://github.com/LaBoulange/tezpay-extensions)
     > Tezpay extensions developed at La Boulange
+-   [Pyrometer](https://gitlab.com/tezos-kiln/pyrometer)
+-   > Monitoring tool for Tezos nodes and bakers
+-   [Pyrometer Discord Notify](https://github.com/SomeBadCoding/pyrometer-notify)
+-   > Webhook to customize Pyrometer Messages for Discord
 
 ([top](#contents))
 
