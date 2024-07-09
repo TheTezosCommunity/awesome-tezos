@@ -50,7 +50,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Media](#media)
     -   [Audio/Video](#audio--video)
     -   [News](#news)
-    -   [Social Media](#social-media)
+    <!-- -   [Social Media](#social-media) -->
 -   [NFTs](#nfts)
     -   [Marketplaces](#nft-marketplaces)
     -   [Tools](#nft-tools)
@@ -184,9 +184,6 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > 10-minute workshop captured live from TEZDEV 2023, where Emma Turner and Thomas Letan demonstrate 1 million transactions per second (1M TPS) on Tezos.
 
 ### Social Media
-
--   [DNS.xyz](https://dns.xyz/)
-    > DNS is a next generation platform to publish and sell your latest masterpiece
 
 ([top](#contents))
 
