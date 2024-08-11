@@ -248,6 +248,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > TezBox is a tezos sandbox that allows you to run a minimal local tezos chain with a single command.
 -   [magic.link](https://magic.link/docs/blockchains/featured-chains/tezos)
     > Magic provides the leading wallet-as-a-service plus essential NFT capabilities.
+-   [dappetizer.dev](https://dappetizer.dev/)
+    > The no-nonsense framework for indexing smart contracts on Tezos.
 
 ([top](#contents))
 
