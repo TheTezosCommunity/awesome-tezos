@@ -255,8 +255,12 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 -   [Etherlink](https://www.etherlink.com/)
     > An EVM-compatible layer 2 built on Tezos Smart Rollup technology
-    - [Etherlink Explorer](https://etherlink.blockscout.com/)
-    - [Etherlink Bridge](https://bridge.etherlink.com/)
+    -   [Etherlink Explorer](https://etherlink.blockscout.com/)
+    -   [Etherlink Bridge](https://bridge.etherlink.com/)
+
+## MISC
+
+-   [Teia/HEN Tools Repo](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community)
 
 ## Contribute
 
