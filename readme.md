@@ -51,6 +51,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     -   [Audio/Video](#audio--video)
     -   [News](#news)
     <!-- -   [Social Media](#social-media) -->
+-   [Misc](#misc)
 -   [NFTs](#nfts)
     -   [Marketplaces](#nft-marketplaces)
     -   [Tools](#nft-tools)
@@ -267,6 +268,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Teia/HEN Tools Repo](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community)
 -   [Awesome Etherlink List](https://mylynx.xyz/etherlink)
     > Etherlink is an EVM-compatible (ETH) Layer-2 chain that resolves to L1 Tezos!
+-   [lockt.io](https://lockt.io/)
+    > lock content behind proof-of-ownership gates on Tezos
 
 ## Contribute
 
