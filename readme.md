@@ -50,6 +50,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Media](#media)
     -   [Audio/Video](#audio--video)
     -   [News](#news)
+-   [MISC](#MISC)
     <!-- -   [Social Media](#social-media) -->
 -   [Misc](#misc)
 -   [NFTs](#nfts)
@@ -270,6 +271,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Etherlink is an EVM-compatible (ETH) Layer-2 chain that resolves to L1 Tezos!
 -   [lockt.io](https://lockt.io/)
     > lock content behind proof-of-ownership gates on Tezos
+-   [XTZ Chad](https://xtzchad.xyz/)
+    > A collection of fun and useful tools related to Tezos.
 
 ## Contribute
 
