@@ -38,6 +38,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 
 > alphabetical order
 
+-   [APIs](#apis)
 -   [Baking Tools](#baking-tools)
 -   [Block Explorers](#block-explorers)
 -   [Communication](#communication)
