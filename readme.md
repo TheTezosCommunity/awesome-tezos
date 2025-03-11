@@ -253,10 +253,17 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Magic provides the leading wallet-as-a-service plus essential NFT capabilities.
 -   [dappetizer.dev](https://dappetizer.dev/)
     > The no-nonsense framework for indexing smart contracts on Tezos.
--   [Teztok](https://www.teztok.com/docs)
-    > The TezTok indexer is an open-source tool that allows developers to access NFT data across Tezos marketplaces through a GraphQL API.
 
 ([top](#contents))
+
+## APIs
+
+-   [TezTok](https://www.teztok.com/docs)
+    > The TezTok indexer is an open-source tool that allows developers to access NFT data across Tezos marketplaces through a GraphQL API.
+-   [TzKT](https://api.tzkt.io/)
+    > TzKT is the most widely used tool in Tezos that provides you with convenient and flexible access to the Tezos blockchain data, processed and indexed by its own indexer.
+-   [objkt](https://docs.objkt.com/product)
+    > objkt.com is the largest NFT marketplace on the Tezos blockchain; offering art, music, collectibles, gaming items and other virtual goods.
 
 ## Rollups
 
