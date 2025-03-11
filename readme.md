@@ -216,6 +216,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Forum to exchange about ideas and proposals related to Tezos
 -   [Octez and Protocol Documentation](https://tezos.gitlab.io/introduction/tezos.html)
 -   [Open Tezos](https://opentezos.com/)
+-   [Tezos Tutorials](https://docs.tezos.com/tutorials/)
 
 ([top](#contents))
 
