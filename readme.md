@@ -80,8 +80,10 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 > Decentralized Finance
 
 -   [Crunchy](https://crunchy.network/)
+    > mostly dead
 -   [Spicyswap](https://hd.spicyswap.xyz/)
--   [Plenty](https://plenty.network/)
+    > not updated to latest wallet connection standards
+-   [Plenty](https://plenty.network/) 
 -   [Quipuswap](https://quipuswap.com/)
 -   [Matter](https://matterdefi.xyz/)
 
@@ -105,6 +107,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [pepe-et-nunc](https://www.pepeetnunc.art/)
 -   [tesserart](https://tesserart.xyz/)
 -   [Emergent Properties](https://emprops.ai/)
+-   [Aleatory](https://aleatory.art)
+-   [REJKT](https://rejkt.xyz)
 
 ([top](#contents))
 
@@ -132,6 +136,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 ## VR / Metaverse
 
 -   [oncyber](https://oncyber.io/)
+-   [TezTowers](https://teztowers.com)
 
 ([top](#contents))
 
@@ -149,6 +154,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [Tezos Commons](https://tezoscommons.org/)
     > "Tezos Commons supports the ideas, individuals and organizations dedicated to building the digital commonwealth"
 -   [Tezos Pepe](https://tezospepe.com/)
+-   [hacktez.com](https://hacktez.com)
+    > Free Tezos subdomain, profile, bio, tip jar, and so much more
 
 ([top](#contents))
 
@@ -160,6 +167,7 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
     > Development, core development, and adoption assistance
 -   [Marigold](https://www.marigold.dev/)
     > Development team focused on testing and developing upgrades to the Tezos Protocol
+-   [FAFO~lab~](https://fafolab.xyz)
 
 ([top](#contents))
 
