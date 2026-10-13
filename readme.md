@@ -115,6 +115,8 @@ You too can support this list and <strong>The Tezos Community</strong> directly 
 -   [nftbiker.tez Tools](https://nftbiker.xyz/)
 -   [PureSpider's fxhash PFP generator](https://github.com/PureSpider/fxhash-pfp)
 -   [FA2 Bakery](https://fa2-bakery.netlify.app/)
+-   [seeded.art](https://seeded.art/)
+    > Archive of fxhash generative art with seeded playback, profiles, and articles.
 
 ([top](#contents))
 
@@ -295,5 +297,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 -   [skullzarmy](https://github.com/skullzarmy)
 -   [LaBoulange](https://github.com/LaBoulange)
+-   [emptyname-org](https://github.com/emptyname-org)
 
 ([top](#contents))
